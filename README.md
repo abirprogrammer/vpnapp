@@ -1,8 +1,8 @@
 # ⚡ Power VPN
 
 <p align="center">
-  <img src=" WhatsApp Image 2026-10-12 at 13.57.17.jpeg" alt="Power VPN Banner" width="100%" hight="100" />
-    <img src="WhatsApp Image 2026-10-12 at 13.57.13.jpeg" alt="Power VPN Banner" width="100%" hight="100" />
+  <img src="WhatsApp Image 2026-10-12 at 13.57.17.jpeg" alt="Power VPN Banner" width="100%" hight="100" />
+    <img src="WhatsApp Image 2026-10-12 at 13.57.16 (3).jpeg" alt="Power VPN Banner" width="100%" hight="100" />
     <img src="WhatsApp Image 2026-10-12 at 13.57.13.jpeg" alt="Power VPN Banner" width="100%" hight="100" />
     <img src="WhatsApp Image 2026-10-12 at 13.57.13.jpeg" alt="Power VPN Banner" width="100%" hight="100" />
   <img src="WhatsApp Image 2026-10-12 at 13.57.13.jpeg" alt="Power VPN Banner" width="100%" />
