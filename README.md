@@ -1,7 +1,7 @@
 # ⚡ Power VPN
 
 <p align="center">
-  <img src="your-image-name.png" alt="Power VPN Banner" width="100%" />
+  <img src="WhatsApp Image 2026-10-12 at 13.57.13.jpeg" alt="Power VPN Banner" width="100%" />
 </p>
 
 <p align="center">
