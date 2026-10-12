@@ -1,17 +1,53 @@
-# powervpn
+# ⚡ Power VPN
 
-A new Flutter project.
+<p align="center">
+  <img src="your-image-name.png" alt="Power VPN Banner" width="100%" />
+</p>
 
-## Getting Started
+<p align="center">
+  <b>Fast • Secure • Unlimited</b>
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  A modern VPN application built with Flutter.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Framework-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-Language-0175C2?logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green" alt="Platforms" />
+</p>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 About Power VPN
+
+Power VPN is a Flutter-based mobile application designed to provide a simple and user-friendly VPN experience.
+
+## ✨ Features
+
+- ⚡ Simple and modern interface
+- 🔒 Privacy-focused design
+- 🌐 Server selection interface
+- 📱 Responsive Flutter UI
+- 🚀 Easy to use
+
+## 🛠️ Technologies
+
+- Flutter
+- Dart
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/YOUR_USERNAME/powervpn.git
+cd powervpn
+flutter pub get
+flutter run
+```
+
+---
+
+<p align="center">
+  ⭐ If you like this project, consider giving it a star!
+</p>
